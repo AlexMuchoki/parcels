@@ -5,14 +5,6 @@ Created on Sun Nov  3 17:03:49 2024
 @author: Alex
 """
 
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
-# cook your dish here
 import datetime
 
 class Customer:
